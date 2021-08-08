@@ -1,7 +1,7 @@
 <main>
 	<div id="logo">
 		<h1>mutual market</h1>
-		<p>Supporting local communities everyday purchases you already make. Coming soon.</p>
+		<p>Supporting local communities through everyday purchases you already make. Coming soon.</p>
 	</div>
 </main>
 
